@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444590367 source:/home/stephen/Programming/C/BegC4D/ex2403/main.c
+	"ex2403.h"
+
+1444590311 /home/stephen/Programming/C/BegC4D/ex2403/ex2403.h
+	<stdio.h>
+	<stdlib.h>
+

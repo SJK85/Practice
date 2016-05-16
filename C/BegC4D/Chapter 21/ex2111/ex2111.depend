@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443215587 source:/home/stephen/Programming/C/BegC4D/ex2111/main.c
+	<stdio.h>
+	<time.h>
+

@@ -1,0 +1,31 @@
+years_list=[1985,1986,1987,1988,1989,1990]
+print(years_list[3])
+print(years_list[5])
+things=['mozzarella','cinderella','salmonella']
+things[1]=things[1].capitalize()
+print(things)
+things[0]=things[0].upper()
+print(things)
+del things[2]
+print(things)
+surprise=['Groucho','Chico','Harpo']
+surprise[2]=surprise[2].lower()
+new=surprise[2]
+surprise[2]=new[::-1]
+surprise[2]=surprise[2].capitalize()
+print(surprise)
+e2f={'dog':'chien','cat':'chat','walrus':'morse'}
+print(e2f)
+print(e2f['walrus'])
+f2e={}
+for english,french in e2f.items():
+	f2e[french]=english
+print(f2e)
+print(f2e['chien'])
+print(e2f.keys())
+cats=['Henri','Grumpy','Lucy']
+animals={'cats':cats,'octopi':'','emus':''}
+life={'animals':animals,'plants':'','other':''}
+print(life.keys())
+print(life['animals'])
+print(life['animals']['cats'])

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444237431 source:/home/stephen/Programming/C/BegC4D/ex2303/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<dirent.h>
+	<sys/stat.h>
+

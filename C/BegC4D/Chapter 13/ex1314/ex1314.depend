@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440701334 source:/home/stephen/Programming/C/BegC4D/Chapter 13/ex1314/main.c
+	<stdio.h>
+	<ctype.h>
+

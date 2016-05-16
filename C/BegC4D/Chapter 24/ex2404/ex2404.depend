@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444592239 source:/home/stephen/Programming/C/BegC4D/ex2404/input.c
+	"ex2404.h"
+
+1444592239 /home/stephen/Programming/C/BegC4D/ex2404/ex2404.h
+	<stdio.h>
+	<stdlib.h>
+
